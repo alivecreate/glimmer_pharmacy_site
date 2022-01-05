@@ -1,0 +1,22 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+.slider-caption h2 {
+    background: #ca2c2d;
+    text-align: center;
+    color: white !important;
+}
+
+.slider-caption h2 span{
+    text-align: center;
+    color: black !important;
+}
+p.d-none.d-sm-block.zoomIn.animated {
+    background: white;
+    text-align: center;
+    font-weight: bold;
+}
