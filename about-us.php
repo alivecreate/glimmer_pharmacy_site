@@ -9,7 +9,7 @@
 
 	<link rel="stylesheet" href="css/colors.php?color=ca2c2e" type="text/css" />
 
-	<title>About Us | Glimmer Biotech 00</title>
+	<title>About Us | Glimmer Biotech 0000000 virendra</title>
 
 </head>
 
